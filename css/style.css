@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 9, 144);
+}
+
+* {
+    font-family: Helvetica;
+    box-sizing: border-box; transition: all 1s ease;
+}
+
+.conteneur {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main {
+    background-color: rgb(255, 119, 226);
+    min-height: 500px;
+}
+
+header, footer {
+    color: white;
+    min-height: 140px;
+}
+
+main .conteneur {
+    display: flex; flex-wrap: wrap; /* on demande au langage de respecter la taille de nos elements */
+}
+
+#principal {
+    width: 75%;
+    min-height: 500px;
+}
+
+#barre-laterale {
+    width: 25%;
+    min-height: 500px;
+    text-align: right;
+}
+
+#barre-laterale img{
+    cursor: pointer;
+    /*width: 93px;  */
+}
+
+img {
+    max-width: 100%;
+}

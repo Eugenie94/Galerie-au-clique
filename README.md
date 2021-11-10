@@ -11,6 +11,6 @@ Ce projet a été créer à partir des technologies suivantes :
 
 Url du projet : https://galerie-clique-eugenie.netlify.app/
 
---------------------------------------------- Aperçu de la galerie ---------------------------------------------
+-------------------------------------------------- Aperçu de la galerie --------------------------------------------------
 
 ![fe](https://user-images.githubusercontent.com/58372973/141210211-ee090af2-d1c1-46fa-ad0d-b9a48efefd61.png)
